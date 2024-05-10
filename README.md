@@ -1,7 +1,7 @@
 TEAM PINNACLE
 ECO CORP
 Environmental Sustainability
-Problem Statement: Real-Time Machine Learning for Pollution Reduction and
+Problem Statement: Machine Learning for Pollution Reduction and
 Maximize Environmental Impact
 PROPOSED SOLUTION: It is a System where all the IT corporates take the initiative
 to detect and reduce carbon emission of the industry and the workers. The
